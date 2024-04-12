@@ -3,7 +3,7 @@
 
 static const int kRowHeight = 20;
 
-const char kWindowTitle[] = "イシカワタケシ_MT3_00_01";
+const char kWindowTitle[] = "LE2C_イシカワタケシ_MT3_00_01";
 
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
